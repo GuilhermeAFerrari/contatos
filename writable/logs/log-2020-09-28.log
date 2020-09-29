@@ -1,0 +1,80 @@
+CRITICAL - 2020-09-28 19:49:13 --> Undefined index: administrador
+#0 C:\wamp64\www\contatos\app\Views\view_list_registro_contacts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\c...', 13, Array)
+#1 C:\wamp64\www\contatos\system\View\View.php(246): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\contatos\system\Common.php(1119): CodeIgniter\View\View->render('view_list_regis...', Array, true)
+#3 C:\wamp64\www\contatos\app\Controllers\CadastroRegistro.php(23): view('view_list_regis...', Array)
+#4 C:\wamp64\www\contatos\system\CodeIgniter.php(918): App\Controllers\CadastroRegistro->listarRegistros()
+#5 C:\wamp64\www\contatos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CadastroRegistro))
+#6 C:\wamp64\www\contatos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\contatos\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-28 19:49:23 --> Undefined index: administrador
+#0 C:\wamp64\www\contatos\app\Views\view_list_registro_contacts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\c...', 13, Array)
+#1 C:\wamp64\www\contatos\system\View\View.php(246): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\contatos\system\Common.php(1119): CodeIgniter\View\View->render('view_list_regis...', Array, true)
+#3 C:\wamp64\www\contatos\app\Controllers\CadastroRegistro.php(23): view('view_list_regis...', Array)
+#4 C:\wamp64\www\contatos\system\CodeIgniter.php(918): App\Controllers\CadastroRegistro->listarRegistros()
+#5 C:\wamp64\www\contatos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CadastroRegistro))
+#6 C:\wamp64\www\contatos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\contatos\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-28 19:49:25 --> Undefined index: administrador
+#0 C:\wamp64\www\contatos\app\Views\view_list_registro_contacts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\c...', 13, Array)
+#1 C:\wamp64\www\contatos\system\View\View.php(246): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\contatos\system\Common.php(1119): CodeIgniter\View\View->render('view_list_regis...', Array, true)
+#3 C:\wamp64\www\contatos\app\Controllers\CadastroRegistro.php(23): view('view_list_regis...', Array)
+#4 C:\wamp64\www\contatos\system\CodeIgniter.php(918): App\Controllers\CadastroRegistro->listarRegistros()
+#5 C:\wamp64\www\contatos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CadastroRegistro))
+#6 C:\wamp64\www\contatos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\contatos\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-28 19:49:34 --> Undefined index: administrador
+#0 C:\wamp64\www\contatos\app\Views\view_list_registro_contacts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\c...', 13, Array)
+#1 C:\wamp64\www\contatos\system\View\View.php(246): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\contatos\system\Common.php(1119): CodeIgniter\View\View->render('view_list_regis...', Array, true)
+#3 C:\wamp64\www\contatos\app\Controllers\CadastroRegistro.php(23): view('view_list_regis...', Array)
+#4 C:\wamp64\www\contatos\system\CodeIgniter.php(918): App\Controllers\CadastroRegistro->listarRegistros()
+#5 C:\wamp64\www\contatos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CadastroRegistro))
+#6 C:\wamp64\www\contatos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\contatos\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-28 19:49:36 --> Undefined index: administrador
+#0 C:\wamp64\www\contatos\app\Views\view_list_registro_contacts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\c...', 13, Array)
+#1 C:\wamp64\www\contatos\system\View\View.php(246): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\contatos\system\Common.php(1119): CodeIgniter\View\View->render('view_list_regis...', Array, true)
+#3 C:\wamp64\www\contatos\app\Controllers\CadastroRegistro.php(23): view('view_list_regis...', Array)
+#4 C:\wamp64\www\contatos\system\CodeIgniter.php(918): App\Controllers\CadastroRegistro->listarRegistros()
+#5 C:\wamp64\www\contatos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CadastroRegistro))
+#6 C:\wamp64\www\contatos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\contatos\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-28 19:49:37 --> Undefined index: administrador
+#0 C:\wamp64\www\contatos\app\Views\view_list_registro_contacts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\c...', 13, Array)
+#1 C:\wamp64\www\contatos\system\View\View.php(246): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\contatos\system\Common.php(1119): CodeIgniter\View\View->render('view_list_regis...', Array, true)
+#3 C:\wamp64\www\contatos\app\Controllers\CadastroRegistro.php(23): view('view_list_regis...', Array)
+#4 C:\wamp64\www\contatos\system\CodeIgniter.php(918): App\Controllers\CadastroRegistro->listarRegistros()
+#5 C:\wamp64\www\contatos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CadastroRegistro))
+#6 C:\wamp64\www\contatos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\contatos\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-28 19:49:43 --> Undefined index: administrador
+#0 C:\wamp64\www\contatos\app\Views\view_list_registro_contacts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\c...', 13, Array)
+#1 C:\wamp64\www\contatos\system\View\View.php(246): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\contatos\system\Common.php(1119): CodeIgniter\View\View->render('view_list_regis...', Array, true)
+#3 C:\wamp64\www\contatos\app\Controllers\CadastroRegistro.php(23): view('view_list_regis...', Array)
+#4 C:\wamp64\www\contatos\system\CodeIgniter.php(918): App\Controllers\CadastroRegistro->listarRegistros()
+#5 C:\wamp64\www\contatos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CadastroRegistro))
+#6 C:\wamp64\www\contatos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\contatos\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-28 19:52:19 --> Undefined index: administrador
+#0 C:\wamp64\www\contatos\app\Views\view_list_registro_contacts.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\c...', 13, Array)
+#1 C:\wamp64\www\contatos\system\View\View.php(246): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\contatos\system\Common.php(1119): CodeIgniter\View\View->render('view_list_regis...', Array, true)
+#3 C:\wamp64\www\contatos\app\Controllers\CadastroRegistro.php(23): view('view_list_regis...', Array)
+#4 C:\wamp64\www\contatos\system\CodeIgniter.php(918): App\Controllers\CadastroRegistro->listarRegistros()
+#5 C:\wamp64\www\contatos\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CadastroRegistro))
+#6 C:\wamp64\www\contatos\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\contatos\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

@@ -1,0 +1,27 @@
+.tableList {
+    margin: 24px;
+    text-align: center;
+    display: block;
+}
+
+.formList {
+    margin-left: 35%;
+    max-width: 400px;
+}
+
+.buttonList {
+    margin-left: 24px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+input {
+    margin-bottom: 12px !important;
+}
+a {
+    color: black;
+}
+
+a:hover {
+    color: #138496;
+}
